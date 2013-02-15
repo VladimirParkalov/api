@@ -1,0 +1,5 @@
+all:
+ is_secure: false
+info:
+  is_secure : true
+permissions : [ read , write ]

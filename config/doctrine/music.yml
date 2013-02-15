@@ -1,0 +1,50 @@
+#Название
+#Ссылка
+#Картинка
+#Высота
+#Ширина (но пока не отображай)
+#ALT (подсказка)
+Music:
+  columns:
+    user_id:
+      type: integer
+    title:
+      type: string
+      length: 255
+    description:
+      type: string
+      length: 255
+    url:
+      type: string 
+      length: 255
+    image:
+      type: string
+      length: 255
+    is_active:
+      type: boolean
+      default: true
+      
+  actAs:
+    Timestampable:
+      created:
+        name: created_at
+        type: timestamp
+        format: Y-m-d H:i:s
+      updated:
+        name: updated_at
+        type: timestamp
+        format: Y-m-d H:i:s
+    Sluggable:
+      builder: ['tsDoctrineInflector', 'urlize']
+  
+  options:
+    charset: utf8
+  
+  relations:
+    User:
+      local: user_id
+      foreign: id
+      class: sfGuardUser
+      type: one
+      foreignType: one
+      foreignAlias: Music

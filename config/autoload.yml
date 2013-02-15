@@ -1,0 +1,9 @@
+autoload:
+  ckeditor:
+    name:       ckeditor
+    path:       <?php echo sfConfig::get('sf_plugins_dir'); ?>/sfCKEditorPlugin/web/ckeditor
+    recursive:  on
+  ckfinder:
+    name:       ckfinder
+    path:       <?php echo sfConfig::get('sf_plugins_dir'); ?>/sfCKEditorPlugin/web/ckfinder
+    recursive:  on

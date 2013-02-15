@@ -1,0 +1,33 @@
+rest:
+  class:   sfObjectRouteCollection
+  options:
+    model:   music
+    actions: [ create, delete, list, update ]
+    module:  rest
+    column:  id
+    format:  json
+
+
+apis_id:
+  url: /apis/:id/*
+  class: sfDoctrineRestBasicRoute
+  param: { module: apis}
+  requirements:
+    id: \d+
+    sf_method: [get, head, post, delete]
+
+apis:
+  url: /apis/*
+  class: sfDoctrineRestBasicRoute
+  param: { module: apis}
+  requirements:
+    sf_method: [get, head, put]
+    
+
+#default rules
+homepage:
+  url:   /
+  param: { module: api, action: index }
+#
+#default:
+#  url:   /:module/:action/*

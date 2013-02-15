@@ -1,0 +1,11 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+
+    config:
+      filter: 
+        class: false

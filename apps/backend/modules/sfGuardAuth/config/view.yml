@@ -1,0 +1,11 @@
+signinSuccess:
+  stylesheets:
+#    - admin/login.css
+  layout: signin
+  form: AppUserSigninForm
+  
+secureSuccess:
+  stylesheets:
+#    - admin/login.css
+  layout: signin  
+ 

@@ -1,0 +1,395 @@
+Feb 09 15:37:43 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 09 15:37:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 15:37:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 15:37:44 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 09 15:37:44 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/indexSuccess.php"
+Feb 09 15:37:45 symfony [info] {sfPHPView} Decorate content with "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 15:37:45 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 15:37:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 09 15:37:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 15:37:46 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 09 15:37:46 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 15:37:46 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 15:37:46 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 09 15:37:46 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/indexSuccess.php"
+Feb 09 15:37:46 symfony [info] {sfPHPView} Decorate content with "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 15:37:46 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 15:37:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 09 15:37:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 15:37:46 symfony [info] {sfWebDebugLogger} Configuration 1.23 ms (9)
+Feb 09 15:37:46 symfony [info] {sfWebDebugLogger} Factories 27.02 ms (1)
+Feb 09 15:37:46 symfony [info] {sfWebDebugLogger} Action "default/index" 0.12 ms (1)
+Feb 09 15:37:46 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.59 ms (1)
+Feb 09 15:37:46 symfony [info] {sfWebResponse} Send content (27818 o)
+Feb 09 15:53:18 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 09 15:53:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 15:53:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 15:53:18 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 09 15:53:18 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/indexSuccess.php"
+Feb 09 15:53:18 symfony [info] {sfPHPView} Decorate content with "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 15:53:18 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 15:53:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 09 15:53:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 15:53:18 symfony [info] {sfWebDebugLogger} Configuration 276.66 ms (9)
+Feb 09 15:53:18 symfony [info] {sfWebDebugLogger} Factories 388.18 ms (1)
+Feb 09 15:53:18 symfony [info] {sfWebDebugLogger} Action "default/index" 0.10 ms (1)
+Feb 09 15:53:18 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 103.08 ms (1)
+Feb 09 15:53:18 symfony [info] {sfWebResponse} Send content (28137 o)
+Feb 09 15:55:27 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 09 15:55:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 15:55:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 15:55:27 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 09 15:55:27 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/indexSuccess.php"
+Feb 09 15:55:27 symfony [info] {sfPHPView} Decorate content with "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 15:55:27 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 15:55:27 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 09 15:55:27 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 15:55:27 symfony [info] {sfWebDebugLogger} Configuration 0.83 ms (9)
+Feb 09 15:55:27 symfony [info] {sfWebDebugLogger} Factories 28.12 ms (1)
+Feb 09 15:55:27 symfony [info] {sfWebDebugLogger} Action "default/index" 0.12 ms (1)
+Feb 09 15:55:27 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.59 ms (1)
+Feb 09 15:55:27 symfony [info] {sfWebResponse} Send content (28128 o)
+Feb 09 16:14:11 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 09 16:14:11 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 16:14:11 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 16:14:11 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 09 16:14:11 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/indexSuccess.php"
+Feb 09 16:14:11 symfony [info] {sfPHPView} Decorate content with "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 16:14:11 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 16:14:11 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 09 16:14:11 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 16:14:11 symfony [info] {sfWebDebugLogger} Configuration 0.83 ms (9)
+Feb 09 16:14:11 symfony [info] {sfWebDebugLogger} Factories 22.08 ms (1)
+Feb 09 16:14:11 symfony [info] {sfWebDebugLogger} Action "default/index" 0.07 ms (1)
+Feb 09 16:14:11 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.75 ms (1)
+Feb 09 16:14:11 symfony [info] {sfWebResponse} Send content (28097 o)
+Feb 09 16:37:43 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 09 16:37:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 16:37:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 16:37:44 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 09 16:37:44 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/indexSuccess.php"
+Feb 09 16:37:44 symfony [info] {sfPHPView} Decorate content with "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 16:37:44 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 16:37:44 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 09 16:37:44 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 16:37:44 symfony [info] {sfWebDebugLogger} Configuration 1598.29 ms (10)
+Feb 09 16:37:44 symfony [info] {sfWebDebugLogger} Factories 413.71 ms (1)
+Feb 09 16:37:44 symfony [info] {sfWebDebugLogger} Action "default/index" 0.11 ms (1)
+Feb 09 16:37:44 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 332.42 ms (1)
+Feb 09 16:37:44 symfony [info] {sfWebResponse} Send content (28105 o)
+Feb 09 19:21:31 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 09 19:21:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 19:21:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 19:21:31 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 09 19:21:31 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/indexSuccess.php"
+Feb 09 19:21:31 symfony [info] {sfPHPView} Decorate content with "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 19:21:31 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 19:21:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 09 19:21:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 19:21:31 symfony [info] {sfWebDebugLogger} Configuration 88.40 ms (9)
+Feb 09 19:21:31 symfony [info] {sfWebDebugLogger} Factories 51.69 ms (1)
+Feb 09 19:21:31 symfony [info] {sfWebDebugLogger} Action "default/index" 0.09 ms (1)
+Feb 09 19:21:31 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 9.80 ms (1)
+Feb 09 19:21:31 symfony [info] {sfWebResponse} Send content (28310 o)
+Feb 09 20:15:37 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 09 20:15:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 20:15:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 20:15:37 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 09 20:15:37 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/indexSuccess.php"
+Feb 09 20:15:37 symfony [info] {sfPHPView} Decorate content with "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 20:15:37 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 20:15:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 09 20:15:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 20:15:37 symfony [info] {sfWebDebugLogger} Configuration 42.56 ms (10)
+Feb 09 20:15:37 symfony [info] {sfWebDebugLogger} Factories 59.03 ms (1)
+Feb 09 20:15:37 symfony [info] {sfWebDebugLogger} Action "default/index" 0.10 ms (1)
+Feb 09 20:15:37 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 10.25 ms (1)
+Feb 09 20:15:37 symfony [info] {sfWebResponse} Send content (28314 o)
+Feb 09 20:15:38 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 09 20:15:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 20:15:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 20:15:38 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 09 20:15:38 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/indexSuccess.php"
+Feb 09 20:15:38 symfony [info] {sfPHPView} Decorate content with "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 20:15:38 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 20:15:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 09 20:15:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 20:15:38 symfony [info] {sfWebDebugLogger} Configuration 1.08 ms (9)
+Feb 09 20:15:38 symfony [info] {sfWebDebugLogger} Factories 21.86 ms (1)
+Feb 09 20:15:38 symfony [info] {sfWebDebugLogger} Action "default/index" 0.07 ms (1)
+Feb 09 20:15:38 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.32 ms (1)
+Feb 09 20:15:38 symfony [info] {sfWebResponse} Send content (28506 o)
+Feb 09 20:15:39 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 09 20:15:39 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 20:15:39 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 20:15:39 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 09 20:15:39 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/indexSuccess.php"
+Feb 09 20:15:39 symfony [info] {sfPHPView} Decorate content with "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 20:15:39 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 20:15:39 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 09 20:15:39 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 20:15:39 symfony [info] {sfWebDebugLogger} Configuration 1.18 ms (9)
+Feb 09 20:15:39 symfony [info] {sfWebDebugLogger} Factories 24.78 ms (1)
+Feb 09 20:15:39 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Feb 09 20:15:39 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.80 ms (1)
+Feb 09 20:15:39 symfony [info] {sfWebResponse} Send content (28506 o)
+Feb 09 20:15:41 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 09 20:15:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 20:15:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 20:15:41 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 09 20:15:41 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/indexSuccess.php"
+Feb 09 20:15:41 symfony [info] {sfPHPView} Decorate content with "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 20:15:41 symfony [info] {sfPHPView} Render "/usr/share/php/symfony/controller/default/templates/defaultLayout.php"
+Feb 09 20:15:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 09 20:15:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 20:15:41 symfony [info] {sfWebDebugLogger} Configuration 1.29 ms (9)
+Feb 09 20:15:41 symfony [info] {sfWebDebugLogger} Factories 21.43 ms (1)
+Feb 09 20:15:41 symfony [info] {sfWebDebugLogger} Action "default/index" 0.11 ms (1)
+Feb 09 20:15:41 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.63 ms (1)
+Feb 09 20:15:41 symfony [info] {sfWebResponse} Send content (28482 o)
+Feb 09 21:24:44 symfony [info] {sfPatternRouting} Match route "api" (/api.:sf_format) for /api with parameters array (  'module' => 'api',  'action' => 'index',  'sf_format' => 'html',)
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 17 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/cleanupParameters.php): failed to open stream: No such file or directory)
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 17 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/cleanupParameters.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 19 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/configureFields.php): failed to open stream: No such file or directory)
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 19 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/configureFields.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 31 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/getFormat.php): failed to open stream: No such file or directory)
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 31 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/getFormat.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 35 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/getSerializer.php): failed to open stream: No such file or directory)
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 35 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/getSerializer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 37 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/getUpdateValidators.php): failed to open stream: No such file or directory)
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 37 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/getUpdateValidators.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 46 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/queryExecute.php): failed to open stream: No such file or directory)
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 46 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/queryExecute.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 48 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/queryFetchOne.php): failed to open stream: No such file or directory)
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 48 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/queryFetchOne.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 50 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/setFieldVisibility.php): failed to open stream: No such file or directory)
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 50 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/setFieldVisibility.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 52 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/showAction.php): failed to open stream: No such file or directory)
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 52 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/showAction.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 54 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/updateAction.php): failed to open stream: No such file or directory)
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 54 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/updateAction.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 58 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/validate.php): failed to open stream: No such file or directory)
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 58 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/validate.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 64 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/validateShow.php): failed to open stream: No such file or directory)
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 64 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/validateShow.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 66 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/validateUpdate.php): failed to open stream: No such file or directory)
+Feb 09 21:24:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 66 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/validateUpdate.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:25:37 symfony [info] {sfPatternRouting} Match route "api" (/api.:sf_format) for /api with parameters array (  'module' => 'api',  'action' => 'index',  'sf_format' => 'html',)
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 17 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/cleanupParameters.php): failed to open stream: No such file or directory)
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 17 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/cleanupParameters.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 19 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/configureFields.php): failed to open stream: No such file or directory)
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 19 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/configureFields.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 31 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/getFormat.php): failed to open stream: No such file or directory)
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 31 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/getFormat.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 35 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/getSerializer.php): failed to open stream: No such file or directory)
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 35 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/getSerializer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 37 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/getUpdateValidators.php): failed to open stream: No such file or directory)
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 37 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/getUpdateValidators.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 46 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/queryExecute.php): failed to open stream: No such file or directory)
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 46 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/queryExecute.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 48 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/queryFetchOne.php): failed to open stream: No such file or directory)
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 48 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/queryFetchOne.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 50 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/setFieldVisibility.php): failed to open stream: No such file or directory)
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 50 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/setFieldVisibility.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 52 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/showAction.php): failed to open stream: No such file or directory)
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 52 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/showAction.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 54 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/updateAction.php): failed to open stream: No such file or directory)
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 54 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/updateAction.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 58 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/validate.php): failed to open stream: No such file or directory)
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 58 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/validate.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 64 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/validateShow.php): failed to open stream: No such file or directory)
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 64 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/validateShow.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 66 (include(/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/validateUpdate.php): failed to open stream: No such file or directory)
+Feb 09 21:25:37 symfony [warning] {sfWebDebugLogger}  Warning at /home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/actions.class.php on line 66 (include(): Failed opening '/home/vlad/www/api/plugins/sfDoctrineRestGeneratorPlugin/data/generator/sfDoctrineRestGenerator/default/template/actions/../../parts/validateUpdate.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear'))
+Feb 09 21:36:48 symfony [info] {sfPatternRouting} Match route "api" (/api.:sf_format) for /api with parameters array (  'module' => 'api',  'action' => 'index',  'sf_format' => 'html',)
+Feb 09 21:36:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 21:36:48 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 21:36:48 symfony [info] {apiActions} Call "apiActions->executeIndex()"
+Feb 09 21:36:48 symfony [err] {sfRenderException} The template "index{}.php" does not exist or is unreadable in "".
+Feb 09 21:36:48 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Feb 09 21:36:48 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 21:36:48 symfony [info] {sfWebDebugLogger} Configuration 112.28 ms (9)
+Feb 09 21:36:48 symfony [info] {sfWebDebugLogger} Factories 53.81 ms (1)
+Feb 09 21:36:48 symfony [info] {sfWebDebugLogger} Action "api/index" 25.91 ms (1)
+Feb 09 21:36:48 symfony [info] {sfWebDebugLogger} View "{}" for "api/index" 41.68 ms (1)
+Feb 09 21:37:57 symfony [info] {sfPatternRouting} Match route "api" (/api.:sf_format) for /api with parameters array (  'module' => 'api',  'action' => 'index',  'sf_format' => 'html',)
+Feb 09 21:37:57 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 21:37:57 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 21:37:57 symfony [info] {apiActions} Call "apiActions->executeIndex()"
+Feb 09 21:37:57 symfony [info] {sfPHPView} Render "/home/vlad/www/api/apps/frontend/modules/api/templates/indexSuccess.php"
+Feb 09 21:37:57 symfony [info] {sfPHPView} Decorate content with "/home/vlad/www/api/apps/frontend/templates/layout.php"
+Feb 09 21:37:57 symfony [info] {sfPHPView} Render "/home/vlad/www/api/apps/frontend/templates/layout.php"
+Feb 09 21:37:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 09 21:37:57 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 21:37:57 symfony [info] {sfWebDebugLogger} Configuration 1.12 ms (9)
+Feb 09 21:37:57 symfony [info] {sfWebDebugLogger} Factories 23.46 ms (1)
+Feb 09 21:37:57 symfony [info] {sfWebDebugLogger} Action "api/index" 18.73 ms (1)
+Feb 09 21:37:57 symfony [info] {sfWebDebugLogger} View "Success" for "api/index" 6.62 ms (1)
+Feb 09 21:37:57 symfony [info] {sfWebResponse} Send content (27470 o)
+Feb 09 21:38:41 symfony [info] {sfPatternRouting} Match route "api" (/api.:sf_format) for /api with parameters array (  'module' => 'api',  'action' => 'index',  'sf_format' => 'html',)
+Feb 09 21:38:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 21:38:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 21:38:41 symfony [info] {apiActions} Call "apiActions->executeIndex()"
+Feb 09 21:41:39 symfony [info] {sfPatternRouting} Match route "api" (/api.:sf_format) for /api with parameters array (  'module' => 'api',  'action' => 'index',  'sf_format' => 'html',)
+Feb 09 21:41:39 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 21:41:39 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 21:41:39 symfony [info] {apiActions} Call "apiActions->executeIndex()"
+Feb 09 21:44:17 symfony [info] {sfPatternRouting} Match route "api" (/api.:sf_format) for /api with parameters array (  'module' => 'api',  'action' => 'index',  'sf_format' => 'html',)
+Feb 09 21:44:17 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 21:44:17 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 21:44:17 symfony [info] {apiActions} Call "apiActions->executeIndex()"
+Feb 09 21:44:19 symfony [info] {sfPatternRouting} Match route "api" (/api.:sf_format) for /api with parameters array (  'module' => 'api',  'action' => 'index',  'sf_format' => 'html',)
+Feb 09 21:44:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 21:44:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 21:44:19 symfony [info] {apiActions} Call "apiActions->executeIndex()"
+Feb 09 21:44:20 symfony [info] {sfPatternRouting} Match route "api" (/api.:sf_format) for /api with parameters array (  'module' => 'api',  'action' => 'index',  'sf_format' => 'html',)
+Feb 09 21:44:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 21:44:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 21:44:20 symfony [info] {apiActions} Call "apiActions->executeIndex()"
+Feb 09 21:44:24 symfony [info] {sfPatternRouting} Match route "api" (/api.:sf_format) for /api with parameters array (  'module' => 'api',  'action' => 'index',  'sf_format' => 'html',)
+Feb 09 21:44:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 21:44:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 21:44:24 symfony [info] {apiActions} Call "apiActions->executeIndex()"
+Feb 09 21:46:18 symfony [info] {sfPatternRouting} Match route "api" (/api.:sf_format) for /api with parameters array (  'module' => 'api',  'action' => 'index',  'sf_format' => 'html',)
+Feb 09 21:46:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 21:46:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 21:46:18 symfony [info] {apiActions} Call "apiActions->executeIndex()"
+Feb 09 21:46:18 symfony [info] {sfPatternRouting} Match route "api" (/api.:sf_format) for /api with parameters array (  'module' => 'api',  'action' => 'index',  'sf_format' => 'html',)
+Feb 09 21:46:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 21:46:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 21:46:18 symfony [info] {apiActions} Call "apiActions->executeIndex()"
+Feb 09 21:46:19 symfony [info] {sfPatternRouting} Match route "api" (/api.:sf_format) for /api with parameters array (  'module' => 'api',  'action' => 'index',  'sf_format' => 'html',)
+Feb 09 21:46:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 21:46:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 21:46:19 symfony [info] {apiActions} Call "apiActions->executeIndex()"
+Feb 09 21:46:19 symfony [info] {sfPatternRouting} Match route "api" (/api.:sf_format) for /api with parameters array (  'module' => 'api',  'action' => 'index',  'sf_format' => 'html',)
+Feb 09 21:46:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 21:46:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 21:46:19 symfony [info] {apiActions} Call "apiActions->executeIndex()"
+Feb 09 21:46:19 symfony [info] {sfPatternRouting} Match route "api" (/api.:sf_format) for /api with parameters array (  'module' => 'api',  'action' => 'index',  'sf_format' => 'html',)
+Feb 09 21:46:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 21:46:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 21:46:19 symfony [info] {apiActions} Call "apiActions->executeIndex()"
+Feb 09 21:47:08 symfony [info] {sfPatternRouting} Match route "api" (/api.:sf_format) for /api with parameters array (  'module' => 'api',  'action' => 'index',  'sf_format' => 'html',)
+Feb 09 21:47:08 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 21:47:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 21:47:08 symfony [info] {apiActions} Call "apiActions->executeIndex()"
+Feb 09 21:47:24 symfony [info] {sfPatternRouting} Match route "api" (/api.:sf_format) for /api with parameters array (  'module' => 'api',  'action' => 'index',  'sf_format' => 'html',)
+Feb 09 21:47:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 21:47:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 21:47:24 symfony [info] {apiActions} Call "apiActions->executeIndex()"
+Feb 09 21:48:13 symfony [info] {sfPatternRouting} Match route "api" (/api.:sf_format) for /api with parameters array (  'module' => 'api',  'action' => 'index',  'sf_format' => 'html',)
+Feb 09 21:48:13 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 21:48:13 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 21:48:13 symfony [info] {apiActions} Call "apiActions->executeIndex()"
+Feb 09 21:49:11 symfony [info] {sfPatternRouting} Match route "api" (/api.:sf_format) for /api with parameters array (  'module' => 'api',  'action' => 'index',  'sf_format' => 'html',)
+Feb 09 21:49:11 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 21:49:11 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 21:49:11 symfony [info] {apiActions} Call "apiActions->executeIndex()"
+Feb 09 21:49:11 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Feb 09 21:49:11 symfony [info] {Doctrine_Connection_Mysql} query : SELECT m.id AS m__id, m.user_id AS m__user_id, m.title AS m__title, m.description AS m__description, m.url AS m__url, m.image AS m__image, m.is_active AS m__is_active, m.created_at AS m__created_at, m.updated_at AS m__updated_at, m.slug AS m__slug FROM music m - ()
+Feb 09 21:49:11 symfony [info] {sfPHPView} Render "/home/vlad/www/api/apps/frontend/modules/api/templates/indexSuccess.php"
+Feb 09 21:49:11 symfony [info] {sfPHPView} Decorate content with "/home/vlad/www/api/apps/frontend/templates/layout.php"
+Feb 09 21:49:11 symfony [info] {sfPHPView} Render "/home/vlad/www/api/apps/frontend/templates/layout.php"
+Feb 09 21:49:11 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 09 21:49:11 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 21:49:11 symfony [info] {sfWebDebugLogger} Configuration 8.47 ms (10)
+Feb 09 21:49:11 symfony [info] {sfWebDebugLogger} Factories 22.27 ms (1)
+Feb 09 21:49:11 symfony [info] {sfWebDebugLogger} Action "api/index" 31.30 ms (1)
+Feb 09 21:49:11 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.01 ms (2)
+Feb 09 21:49:11 symfony [info] {sfWebDebugLogger} View "Success" for "api/index" 19.01 ms (1)
+Feb 09 21:49:11 symfony [info] {sfWebResponse} Send content (31199 o)
+Feb 09 22:53:20 symfony [info] {sfPatternRouting} Match route "api" (/api.:sf_format) for /api with parameters array (  'module' => 'api',  'action' => 'index',  'sf_format' => 'html',)
+Feb 09 22:53:20 symfony [info] {sfFrontWebController} Action "api/index" does not exist
+Feb 09 22:53:20 symfony [err] {sfError404Exception} Action "api/index" does not exist.
+Feb 09 22:53:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 09 22:53:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 22:53:20 symfony [info] {sfWebDebugLogger} Configuration 101.25 ms (5)
+Feb 09 22:53:20 symfony [info] {sfWebDebugLogger} Factories 58.16 ms (1)
+Feb 09 22:53:59 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/serialize/json with parameters array (  'module' => 'api',  'action' => 'serialize',  'json' => true,)
+Feb 09 22:53:59 symfony [info] {sfFrontWebController} Action "api/serialize" does not exist
+Feb 09 22:53:59 symfony [err] {sfError404Exception} Action "api/serialize" does not exist.
+Feb 09 22:53:59 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 09 22:53:59 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 22:53:59 symfony [info] {sfWebDebugLogger} Configuration 0.79 ms (5)
+Feb 09 22:53:59 symfony [info] {sfWebDebugLogger} Factories 23.86 ms (1)
+Feb 09 22:58:46 symfony [info] {sfPatternRouting} Match route "api" (/api/*) for /api/serialize/json with parameters array (  'module' => 'api',  'action' => 'get',  'serialize' => 'json',)
+Feb 09 22:58:46 symfony [info] {sfFrontWebController} Action "api/get" does not exist
+Feb 09 22:58:46 symfony [err] {sfError404Exception} Action "api/get" does not exist.
+Feb 09 22:58:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 09 22:58:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 22:58:46 symfony [info] {sfWebDebugLogger} Configuration 95.50 ms (5)
+Feb 09 22:58:46 symfony [info] {sfWebDebugLogger} Factories 55.89 ms (1)
+Feb 09 22:59:50 symfony [info] {sfPatternRouting} Match route "api" (/api/*) for /api with parameters array (  'module' => 'api',  'action' => 'get',)
+Feb 09 22:59:50 symfony [info] {sfFrontWebController} Action "api/get" does not exist
+Feb 09 22:59:50 symfony [err] {sfError404Exception} Action "api/get" does not exist.
+Feb 09 22:59:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 09 22:59:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 22:59:50 symfony [info] {sfWebDebugLogger} Configuration 0.85 ms (5)
+Feb 09 22:59:50 symfony [info] {sfWebDebugLogger} Factories 25.76 ms (1)
+Feb 09 23:02:46 symfony [info] {sfPatternRouting} Match route "api" (/api/*) for /api with parameters array (  'module' => 'api',  'action' => 'get',)
+Feb 09 23:02:46 symfony [info] {sfFrontWebController} Action "api/get" does not exist
+Feb 09 23:02:46 symfony [err] {sfError404Exception} Action "api/get" does not exist.
+Feb 09 23:02:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 09 23:02:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 23:02:46 symfony [info] {sfWebDebugLogger} Configuration 97.37 ms (5)
+Feb 09 23:02:46 symfony [info] {sfWebDebugLogger} Factories 55.63 ms (1)
+Feb 09 23:08:09 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/api" (/).
+Feb 09 23:08:09 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 09 23:08:09 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 23:08:09 symfony [info] {sfWebDebugLogger} Configuration 95.37 ms (5)
+Feb 09 23:08:09 symfony [info] {sfWebDebugLogger} Factories 55.15 ms (1)
+Feb 09 23:08:24 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/api/" (/).
+Feb 09 23:08:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 09 23:08:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 23:08:24 symfony [info] {sfWebDebugLogger} Configuration 0.88 ms (5)
+Feb 09 23:08:24 symfony [info] {sfWebDebugLogger} Factories 25.11 ms (1)
+Feb 09 23:08:29 symfony [info] {sfPatternRouting} Match route "apis" (/apis/*) for /apis/ with parameters array (  'module' => 'apis',  'action' => 'get',)
+Feb 09 23:08:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 23:08:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 23:08:29 symfony [info] {apisActions} Call "apisActions->executeGet()"
+Feb 09 23:08:29 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Feb 09 23:08:29 symfony [info] {Doctrine_Connection_Mysql} query : SELECT m.id AS m__id, m.user_id AS m__user_id, m.title AS m__title, m.description AS m__description, m.url AS m__url, m.image AS m__image, m.is_active AS m__is_active, m.created_at AS m__created_at, m.updated_at AS m__updated_at, m.slug AS m__slug FROM music m - ()
+Feb 09 23:08:32 symfony [info] {sfPatternRouting} Match route "apis" (/apis/*) for /apis with parameters array (  'module' => 'apis',  'action' => 'get',)
+Feb 09 23:08:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 23:08:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 23:08:33 symfony [info] {apisActions} Call "apisActions->executeGet()"
+Feb 09 23:08:33 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Feb 09 23:08:33 symfony [info] {Doctrine_Connection_Mysql} query : SELECT m.id AS m__id, m.user_id AS m__user_id, m.title AS m__title, m.description AS m__description, m.url AS m__url, m.image AS m__image, m.is_active AS m__is_active, m.created_at AS m__created_at, m.updated_at AS m__updated_at, m.slug AS m__slug FROM music m - ()
+Feb 09 23:09:41 symfony [info] {sfPatternRouting} Match route "apis_id" (/apis/:id/*) for /apis/1 with parameters array (  'module' => 'apis',  'action' => 'get',  'id' => '1',)
+Feb 09 23:09:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 23:09:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 23:09:41 symfony [info] {apisActions} Call "apisActions->executeGet()"
+Feb 09 23:09:41 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Feb 09 23:09:41 symfony [info] {Doctrine_Connection_Statement} execute : SELECT m.id AS m__id, m.user_id AS m__user_id, m.title AS m__title, m.description AS m__description, m.url AS m__url, m.image AS m__image, m.is_active AS m__is_active, m.created_at AS m__created_at, m.updated_at AS m__updated_at, m.slug AS m__slug FROM music m WHERE (m.id = ?) LIMIT 1 - (1)
+Feb 09 23:11:36 symfony [info] {sfPatternRouting} Match route "apis" (/apis/*) for /apis/serialize/json with parameters array (  'module' => 'apis',  'action' => 'get',  'serialize' => 'json',)
+Feb 09 23:11:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 09 23:11:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 09 23:11:36 symfony [info] {apisActions} Call "apisActions->executeGet()"
+Feb 09 23:11:36 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Feb 09 23:11:36 symfony [info] {Doctrine_Connection_Mysql} query : SELECT m.id AS m__id, m.user_id AS m__user_id, m.title AS m__title, m.description AS m__description, m.url AS m__url, m.image AS m__image, m.is_active AS m__is_active, m.created_at AS m__created_at, m.updated_at AS m__updated_at, m.slug AS m__slug FROM music m - ()
+Feb 09 23:11:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 09 23:11:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 09 23:11:36 symfony [info] {sfWebDebugLogger} Configuration 1.12 ms (8)
+Feb 09 23:11:36 symfony [info] {sfWebDebugLogger} Factories 24.15 ms (1)
+Feb 09 23:11:36 symfony [info] {sfWebDebugLogger} Action "apis/get" 34.42 ms (1)
+Feb 09 23:11:36 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.01 ms (2)
+Feb 09 23:11:36 symfony [info] {sfWebDebugLogger} View "None" for "apis/get" 0.01 ms (1)
+Feb 09 23:11:36 symfony [info] {sfWebResponse} Send content (19348 o)
+Feb 10 00:38:36 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'api',  'action' => 'index',)
+Feb 10 00:38:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 10 00:38:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 10 00:38:36 symfony [info] {apiActions} Call "apiActions->executeIndex()"
+Feb 10 00:38:37 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Feb 10 00:38:37 symfony [info] {Doctrine_Connection_Mysql} query : SELECT m.id AS m__id, m.user_id AS m__user_id, m.title AS m__title, m.description AS m__description, m.url AS m__url, m.image AS m__image, m.is_active AS m__is_active, m.created_at AS m__created_at, m.updated_at AS m__updated_at, m.slug AS m__slug FROM music m - ()
+Feb 10 00:38:37 symfony [info] {sfPHPView} Render "/home/vlad/www/api/apps/frontend/modules/api/templates/indexSuccess.php"
+Feb 10 00:38:37 symfony [info] {sfPHPView} Decorate content with "/home/vlad/www/api/apps/frontend/templates/layout.php"
+Feb 10 00:38:37 symfony [info] {sfPHPView} Render "/home/vlad/www/api/apps/frontend/templates/layout.php"
+Feb 10 00:38:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 10 00:38:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 10 00:38:37 symfony [info] {sfWebDebugLogger} Configuration 29.93 ms (10)
+Feb 10 00:38:37 symfony [info] {sfWebDebugLogger} Factories 117.72 ms (1)
+Feb 10 00:38:37 symfony [info] {sfWebDebugLogger} Action "api/index" 29.90 ms (1)
+Feb 10 00:38:37 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.01 ms (2)
+Feb 10 00:38:37 symfony [info] {sfWebDebugLogger} View "Success" for "api/index" 15.69 ms (1)
+Feb 10 00:38:37 symfony [info] {sfWebResponse} Send content (32751 o)

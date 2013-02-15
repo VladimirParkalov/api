@@ -1,0 +1,62 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           music
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          music
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields: 
+        title:
+          label: Title
+        description:
+          label: Descrition
+        is_active:
+          label: Active
+        
+      list: 
+        title: Items list
+        display:
+          - title
+          - description
+          - is_active
+          - created_at
+          - updated_at
+        max_per_page: 20 # 99999
+        batch_actions:
+          delete:
+            label: Delete selected
+        object_actions:
+          _edit:
+            label: Edit 
+          _delete:
+            label: Delete
+        actions:
+          _new:
+            label: Create
+            ui-icon: plus
+      filter: 
+        class: false
+      form:  
+        class: AppMusicForm
+      edit:
+        display:
+          - title
+          - description
+#          - url
+          - is_active
+        title: Edit item
+      new:
+        title: Add item
+        display:
+          - title
+          - description
+          - url
+          - is_active
